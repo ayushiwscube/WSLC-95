@@ -75,6 +75,8 @@
 # print("-"*40)
 
 """
+Task:
+
 ask name
 recliner = 400
 seat = 250
